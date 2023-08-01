@@ -1,0 +1,15 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/bin/Debug/net7.0/futbolTorneo
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/bin/Debug/net7.0/futbolTorneo.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/bin/Debug/net7.0/futbolTorneo.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/bin/Debug/net7.0/futbolTorneo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/bin/Debug/net7.0/futbolTorneo.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/refint/futbolTorneo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/futbolTorneo.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/futbolTorneo/obj/Debug/net7.0/ref/futbolTorneo.dll
