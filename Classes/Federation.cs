@@ -1,4 +1,4 @@
-namespace futbolTorneo;
+namespace futbolTorneo.Classes;
 
 public class Federation
 {
